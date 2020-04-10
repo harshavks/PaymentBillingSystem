@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>PaymentBilling</groupId>
   <artifactId>PaymentBilling</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>PaymentBilling</version>
   <packaging>war</packaging>
   <build>
     <sourceDirectory>src</sourceDirectory>
